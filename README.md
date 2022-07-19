@@ -1,4 +1,4 @@
-# Car on Highway
+# CarOnHighway
 ### Newest: version 0.0.0.0
 1. A 2D car crash game
 ## This archive includes the executable program, caronhighway.exe, which you should click on to run.
